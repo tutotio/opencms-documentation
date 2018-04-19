@@ -22,7 +22,7 @@
       <Term><![CDATA[locale (optional)]]></Term>
       <Description name="Description0">
         <links/>
-        <content><![CDATA[<p>If not provided, a search field is created for every locale the content is defined in. If you specify a specific locale in this parameter, the search field is created only for the provided locale - even if the content exists in other locales as well.</p>]]></content>
+        <content><![CDATA[<p>If not provided, a search field is created for every locale the content is defined in. If you specify a specific locale in this parameter, the search field is created only for the provided locale - even if the content exists in other locales as well. Provide "none" as value for unlocalized solr field.</p>]]></content>
       </Description>
     </Entry>
     <Entry>
